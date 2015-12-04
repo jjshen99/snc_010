@@ -51,17 +51,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jianjun.shen@snc</sys_created_by>
         <sys_created_on>2015-12-04 19:46:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>a43aafb64fc0120053adcfa18110c7a0</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>592e0c8f4f001200f474fe618110c721</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_app_010_table</sys_name>
         <sys_package display_value="App_010" source="x_snc_app_010">583a2fb64fc0120053adcfa18110c73d</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="App_010">583a2fb64fc0120053adcfa18110c73d</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_app_010_table_null</sys_update_name>
-        <sys_updated_by>jianjun.shen@snc</sys_updated_by>
-        <sys_updated_on>2015-12-04 19:46:53</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_app_010_table_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2015-12-04 22:23:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
