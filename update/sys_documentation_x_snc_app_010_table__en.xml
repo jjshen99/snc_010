@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="App_010 Table" language="en" table="x_snc_app_010_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>App_010 Table</label>
+            <language>en</language>
+            <name>x_snc_app_010_table</name>
+            <plural>App_010 Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jianjun.shen@snc</sys_created_by>
+            <sys_created_on>2015-12-04 19:46:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>243aafb64fc0120053adcfa18110c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>App_010 Table</sys_name>
+            <sys_package display_value="App_010" source="x_snc_app_010">583a2fb64fc0120053adcfa18110c73d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="App_010">583a2fb64fc0120053adcfa18110c73d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_app_010_table__en</sys_update_name>
+            <sys_updated_by>jianjun.shen@snc</sys_updated_by>
+            <sys_updated_on>2015-12-04 19:46:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
