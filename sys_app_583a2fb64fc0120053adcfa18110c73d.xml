@@ -6,12 +6,12 @@
         <cross_scope_protected>true</cross_scope_protected>
         <licensable>true</licensable>
         <logo/>
-        <menu display_value="App_010">d03aafb64fc0120053adcfa18110c798</menu>
+        <menu display_value="">d03aafb64fc0120053adcfa18110c798</menu>
         <name>App_010</name>
         <private>false</private>
         <restrict_table_access>true</restrict_table_access>
         <scope>x_snc_app_010</scope>
-        <short_description/>
+        <short_description>jj change 1.</short_description>
         <source>x_snc_app_010</source>
         <store_correlation_id/>
         <store_url/>
@@ -20,11 +20,11 @@
         <sys_created_by>jianjun.shen@snc</sys_created_by>
         <sys_created_on>2015-12-04 19:46:52</sys_created_on>
         <sys_id>583a2fb64fc0120053adcfa18110c73d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>jianjun.shen@snc</sys_updated_by>
-        <sys_updated_on>2015-12-04 19:46:52</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jj</sys_updated_by>
+        <sys_updated_on>2015-12-04 22:52:55</sys_updated_on>
         <template/>
-        <user_role display_value="x_snc_app_010.user" name="x_snc_app_010.user">983aafb64fc0120053adcfa18110c798</user_role>
+        <user_role display_value="">983aafb64fc0120053adcfa18110c798</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0</version>
