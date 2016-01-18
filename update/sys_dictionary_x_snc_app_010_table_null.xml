@@ -52,7 +52,7 @@
         <sys_created_by>jianjun.shen@snc</sys_created_by>
         <sys_created_on>2015-12-04 19:46:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>9822b04b4f401200f474fe618110c7de</sys_id>
+        <sys_id>a5c33b984f811200f474fe618110c7b5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_app_010_table</sys_name>
         <sys_package display_value="App_010" source="x_snc_app_010">583a2fb64fc0120053adcfa18110c73d</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="App_010">583a2fb64fc0120053adcfa18110c73d</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_app_010_table_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2015-12-05 01:01:11</sys_updated_on>
+        <sys_updated_on>2016-01-15 19:06:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
